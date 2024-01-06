@@ -8,4 +8,6 @@
 - [Aggregation](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/aggregation.sql)
 - [Basic Join](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/basic_join.sql)
 - [Recursive Pattern](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/recursive_pattern.sql)
-- [Populatio Density Difference](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/Population%20Density%20Difference.sql)
+- [Population Density Difference](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/Population%20Density%20Difference.sql)
+- [Type Of Triangle](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/Type%20of%20Triangle.sql)
+- [Binary Tree](https://github.com/Adeen317/Hackerrank_MySQL/blob/main/Binary%20Tree.sql)
